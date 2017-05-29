@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ss4ne\AndroidStudioProjects\QRgenerate\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\ss4ne\AndroidStudioProjects\QRgenerate\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_77c4e965e4b6c91140490747cc9f8f833614051c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ss4ne\AndroidStudioProjects\QRgenerate\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\ss4ne\AndroidStudioProjects\QRgenerate\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_ddd9e117c11a55327a3ec95151dd166359def839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ss4ne\AndroidStudioProjects\QRgenerate\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\ss4ne\AndroidStudioProjects\QRgenerate\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_a989c2f0d919455458e49d01fa97b979e09c2c73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ss4ne\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\ss4ne\AndroidStudioProjects\QRgenerate\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_a163f2b415522d9fa45386d37688bf2990c82abf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ss4ne\AndroidStudioProjects\QRgenerate\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\ss4ne\AndroidStudioProjects\QRgenerate\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_81678ed31076937e25dead49fd90cf20a5f35b62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ss4ne\AndroidStudioProjects\QRgenerate\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\ss4ne\AndroidStudioProjects\QRgenerate\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_bb366d3fcdd9ca837f2fe349516a0b013e6996b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ss4ne\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\ss4ne\AndroidStudioProjects\QRgenerate\app\build\intermediates\pre-dexed\debug\core-3.2.1_72ab1169ac1f46ddf50161d1eae075f63363339e.jar" />
+    </item>
+
+</items>
